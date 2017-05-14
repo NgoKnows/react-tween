@@ -1,5 +1,8 @@
 react-tween
 ===
+DEPRECATED - Recommend https://github.com/tannerlinsley/react-move instead!
+---
+
 Tween animation for React components
 
 [Demo](http://codepen.io/mking-clari/pen/XNYbJX)
